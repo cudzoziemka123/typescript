@@ -6,12 +6,12 @@
 102C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\date\month.js133880640864220149 0
 94C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\modules\animal133880640909727724 1
 84C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\locale\af_ZA.js133880640831192635 0
-56C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\CustomMap.ts133880649009662984 0
+56C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\CustomMap.ts133880689860848244 0
 90C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\tr133880640908844518 1
 106C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\hu\date\index.d.ts133880640905238208 0
 113C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\en_GB\address\county.d.ts133880640888960766 0
 92C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\modules\word133880640910525467 1
-44C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist133880649012419449 1
+44C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist133880688633438829 1
 111C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\nb_NO\address\city.d.ts133880640887693305 0
 107C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\en\hacker\noun.d.ts133880640915326706 0
 106C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\az\date\index.d.ts133880640900880623 0
@@ -39,7 +39,7 @@
 103C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr\animal\bear.js133880640831694863 0
 107C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\modules\database\index.d.ts133880640909864842 0
 81C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\locale\ja.js133880640861378195 0
-54C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\Company.ts133880612137589684 0
+54C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\Company.ts133880691453635786 0
 96C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\sv\color133880640908581382 1
 108C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr_CH\animal\insect.js133880640861168782 0
 81C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\locale\el.js133880640842795827 0
@@ -72,7 +72,7 @@
 100C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\fr_CH\internet133880640854661159 1
 99C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\pt_PT\color133880640907687411 1
 119C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\lv\address\default_country.d.ts133880640890091316 0
-52C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\index.ts133880612137321123 0
+52C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\index.ts133880684389051978 0
 90C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\en133880640903192048 1
 114C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\hr\cell_phone\formats.d.ts133880640897531200 0
 108C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\lv\address\city.d.ts133880640887659925 0
@@ -80,7 +80,7 @@
 106C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\ar\date\index.d.ts133880640900698012 0
 96C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\esm\chunk-HMKBSESR.mjs133880640880012163 0
 96C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\ar\vehicle133880640876456570 1
-51C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\User.ts133880612137845569 0
+51C:\Users\Alisa\OneDrive\Desktop\ts\maps\src\User.ts133880691083947936 0
 107C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\ur\color\human.d.ts133880640900392467 0
 110C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\pt_BR\color\index.d.ts133880640907485444 0
 122C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\en_AU\address\default_country.d.ts133880640889762108 0
@@ -2929,7 +2929,7 @@
 102C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\nl\date\month.js133880640864340412 0
 97C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\es_MX\color133880640853521187 1
 101C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\uk\name\name.js133880640865649897 0
-61C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist\maps.34df32e0.js133880649012234728 0
+61C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist\maps.34df32e0.js133880688633048418 0
 111C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\zh_CN\address\postcode.js133880640867244508 0
 107C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\fr\music\genre.d.ts133880640899573242 0
 106C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\fr\word\index.d.ts133880640904619023 0
@@ -3002,7 +3002,7 @@
 113C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\uk\name\female_last_name.js133880640844814340 0
 119C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\en\finance\credit_card\maestro.js133880640862614274 0
 118C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\fi\name\female_first_name.d.ts133880640893516346 0
-65C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist\maps.34df32e0.js.map133880649012389333 0
+65C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist\maps.34df32e0.js.map133880688633408600 0
 111C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\types\locales\fi\name\first_name.d.ts133880640895032872 0
 120C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\tr\commerce\product_description.js133880640868047874 0
 96C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\locales\ne\address133880640873717773 1
@@ -5550,4 +5550,4 @@
 105C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\definitions\phone_number.js133880640866332291 0
 100C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\definitions\science.js133880640869044447 0
 100C:\Users\Alisa\OneDrive\Desktop\ts\maps\node_modules\@faker-js\faker\dist\cjs\definitions\vehicle.js133880640876809175 0
-55C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist\index.html133880647066450112 0
+55C:\Users\Alisa\OneDrive\Desktop\ts\maps\dist\index.html133880688276727418 0
